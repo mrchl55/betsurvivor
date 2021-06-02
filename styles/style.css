@@ -447,7 +447,6 @@ html body .container .entry-content .topbar .topbar-lower .dates-wrapper > .date
 }
 
 .header .header-wrapper .header-right a {
-  font-weight: 500;
   font-size: 14px;
   color: #A2DCFF;
 }
@@ -458,7 +457,7 @@ html body .container .entry-content .topbar .topbar-lower .dates-wrapper > .date
 
 .header .header-wrapper a {
   font-size: 16px;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .header h1 {
